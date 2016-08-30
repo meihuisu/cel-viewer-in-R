@@ -1,0 +1,18 @@
+
+/*
+http://face.usc.edu/wp-content/themes/cardinal_v2_child_craniofacial/style.css
+Theme Name: Cardinal Child - Craniofacial
+Theme URI: http://www.usc.edu/web
+Description: This is an out of the box web site template for USC
+Version: 1.0
+Author: USC Web Services
+Author URI: http://www.usc.edu/web
+Tags: USC, gateway
+Template: cardinal_v2
+*/
+
+@import url("../cardinal_v2/style.css");
+
+body { background: #fff; }
+#nav ul ul { display: block; }
+

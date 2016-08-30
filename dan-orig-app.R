@@ -1,31 +1,11 @@
-Myl3 Rgs5
-
-
-Hi Mei,
-
-
-I hope this is helpful. If in the end you are going to use R for some of the program, maybe I can help with that code.
-
-Also of course, let me know if you have more questions! I’m afraid I have not really explained it that clearly.
-
-
-Dan
-
-
 # Loads R packages:
-
-
 library(bioDist)
-
 library(gplots)
-
 library(limma)
-
 library(DT)
 
 
 # Some little helper functions:
-
 
 leftstr <- function(x, n = 1) substr(x, 1, min(n, nchar(x)))
 
