@@ -38,6 +38,11 @@ localCONFIG$gene3 <- ""
 localCONFIG$gene4 <- ""
 localCONFIG$gene5 <- ""
 
+localCONFIG$heatadjust <- "T"
+localCONFIG$heatscale <- "MC"
+localCONFIG$basecol <- "E10.5"
+localCONFIG$distfun <- "AC"
+
 return(localCONFIG)
 }
 
